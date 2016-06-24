@@ -7,8 +7,7 @@
         "license": {
             "name": "Open Government Licence - Surrey",
             "url": "http://data.surrey.ca/pages/open-government-licence-surrey",
-            "termsOfService": "http://data.surrey.ca/pages/open-government-licence-surrey"
-        },
+    },
         "contact": {
             "name": "City of Surrey GIS Section",
             "url": "http://data.surrey.ca",
@@ -125,7 +124,7 @@
                         "name": "format",
                         "in": "query",
                         "description": "The format of the response",
-                        "type": "stringr"
+                        "type": "string"
                     }
                 ],
                 "responses": {
